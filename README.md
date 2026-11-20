@@ -1,2 +1,3 @@
 # hello-world
-This is a starter project to learn Git Hub. 
+
+This repository was created as part of a training program to practice GitHub functionality.
