@@ -24,3 +24,7 @@ Since this time, i have been putting time into understanding how computers work 
 Adding lines again for the new story. 
 
 This is to add no 3.  
+
+This is number 4. 
+**to check how markdown works**
+
